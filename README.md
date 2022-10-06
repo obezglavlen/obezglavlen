@@ -28,7 +28,7 @@ I like clear code, so I try to make all my projects clear and readable.
 
   Little bit ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
 
--  📧 How to reach me: [mykyta.statiev@gmail.com](mykyta.statiev@gmail.com)
+-  📧 How to reach me: [mykyta.statiev@gmail.com](mailto:mykyta.statiev@gmail.com)
 
 My GitHub stats:
 
