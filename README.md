@@ -4,9 +4,11 @@ Hi, my name is Mykyta 👋. I am a front-end developer 💻.
 
 I like clear code, so I try to make all my projects clear and readable.
 
-<img align="right" src="https://res.cloudinary.com/dkyvginue/image/upload/c_crop,h_350,w_500/v1665007947/code_dribbble_dufuxe.gif" height=250 width=300/>
+
 
 ## About my personal stuff:
+
+<img align="right" src="https://res.cloudinary.com/dkyvginue/image/upload/c_crop,h_350,w_500/v1665007947/code_dribbble_dufuxe.gif" height=250 width=300/>
 
 - 👨‍🎓 I'm a junior **front-end javascript developer**.
 - 🔨 I currently work in [Celadonsoft](https://celadonsoft.com/).
