@@ -36,4 +36,4 @@ My GitHub stats:
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=obezglavlen&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obezglavlen&theme=synthwave&hide_border=true&count_private=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obezglavlen&theme=synthwave&hide_border=true&count_private=true&hide=python)
